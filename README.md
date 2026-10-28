@@ -145,12 +145,6 @@ https://github.com/Gurneet02/smart-healthcare-risk-analysis
 
 ---
 
-## 📸 Dashboard Screenshots
-
-Screenshots of the Tableau dashboard will be added to the `Screenshots` folder.
-
----
-
 ## 👤 Project Information
 
 **Project:** Smart Healthcare Risk Analysis
